@@ -28,7 +28,7 @@ To get started with this project, ensure you have Java, MySQL, and Maven install
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/gaurav637/Blog-Application-Using-Spring-Boot
+git clone [(https://github.com/spee-dev/Blog_application/)]
 Navigate to the project directory:
 bash
 Copy code
